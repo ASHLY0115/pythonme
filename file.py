@@ -1,0 +1,7 @@
+n=input("enter a string:")
+f=open("text","w")
+f.write(n)
+f.close()
+f=open("text","r")
+print(f.read())
+f.close()
