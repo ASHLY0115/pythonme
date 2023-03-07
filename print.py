@@ -13,3 +13,7 @@ for line in F:
         sum=sum+int(ch)
     print("sum = ",sum)    
     """""
+
+
+
+
