@@ -13,4 +13,3 @@ else:
     median=(listint[length-1]+listint[length])/2
 print("median:",median)    
     
-print("median",median)   
