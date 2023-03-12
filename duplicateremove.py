@@ -9,4 +9,7 @@ newlist=[]
 for i  in numlist:   
     if i not in newlist:
         newlist.append[i] 
-print(newlist)        
+print(newlist)     
+
+
+    
